@@ -1,6 +1,6 @@
 # Hi, I'm Rabiya Owais 👋
 
-**Data Analyst | Healthcare Analytics | SQL | Power BI | Python**
+**Data Analyst | Healthcare Analytics | Excel | SQL | Power BI | Python | dbt **
 
 I turn complex healthcare data into actionable insights that improve operations, patient outcomes, and decision-making.
 
